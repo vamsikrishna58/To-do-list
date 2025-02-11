@@ -49,4 +49,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/vamsikrishna58).
+Made with ❤️ by (https://github.com/vamsikrishna58).
