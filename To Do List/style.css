@@ -103,3 +103,60 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+@media only screen and (max-width: 900px) and (min-width: 601px) {
+    .TODO {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .TODO h2 {
+        font-size: 20px;
+    }
+
+    #input-box {
+        font-size: 14px;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+}
+
+/* ✅ Phone Size */
+@media only screen and (max-width: 600px) {
+    .containers {
+        padding: 20px;
+    }
+
+    .TODO {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .TODO h2 {
+        flex-direction: column;
+        align-items: flex-start;
+        font-size: 18px;
+    }
+
+    .TODO h2 img {
+        margin-top: 10px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    #input-box {
+        width: 100%;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+
+    button {
+        width: 50%;
+        font-size: 16px;
+        
+    }
